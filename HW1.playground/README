@@ -1,0 +1,6 @@
+This assignment contains basics of Swift programming language. 
+Including:
+  - Collections (Array, Set, Dictionary)
+  - Classes & struct
+  - Optionals (guar let & if let)
+  - Enum
