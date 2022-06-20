@@ -1,0 +1,4 @@
+In this assignment we are asked to create a simple app that:
+  - Includes either of which (UICollectionView or UITableView)
+  - Includes a functioning search bar to filter data.
+  - Makes an API call
